@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Conditions implementation\Conditions implementation\bin\Debug\Conditions implementation.exe.config
+C:\Users\DELL\source\repos\Conditions implementation\Conditions implementation\bin\Debug\Conditions implementation.exe
+C:\Users\DELL\source\repos\Conditions implementation\Conditions implementation\bin\Debug\Conditions implementation.pdb
+C:\Users\DELL\source\repos\Conditions implementation\Conditions implementation\obj\Debug\Conditions implementation.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Conditions implementation\Conditions implementation\obj\Debug\Conditions implementation.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Conditions implementation\Conditions implementation\obj\Debug\Conditions implementation.exe
+C:\Users\DELL\source\repos\Conditions implementation\Conditions implementation\obj\Debug\Conditions implementation.pdb
